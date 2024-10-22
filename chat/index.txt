@@ -1,0 +1,10 @@
+====== CHATTING =======
+POLLING
+her 1 sekundan tazeden data sorayas GET
+POST adaty
+
+
+FRONT
+1. FORM name, soz
+2. arhiw bolsun
+
